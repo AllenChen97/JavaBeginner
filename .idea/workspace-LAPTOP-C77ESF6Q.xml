@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fcf8ef69-3304-4646-ad24-55d17f8b9cf6" name="Changes" comment="Synchronisation day 1" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="25td4EbdADqoaWgBq1HQqeTz6cE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\文件储存\OneDrive - Newcastle University\Files\1_Code\JavaBeginer" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="B_Advanced.synchronisation.lock" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.d_ReadWriteLock">
+    <configuration name="a_CountDownLatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B_Advanced.synchronisation.e_Auxiliary.a_CountDownLatch" />
+      <module name="JavaBeginer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="B_Advanced.synchronisation.e_Auxiliary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="b_Condition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B_Advanced.synchronisation.d_Lock.b_Condition" />
+      <module name="JavaBeginer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="B_Advanced.synchronisation.d_Lock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="b_CyclicBarrier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B_Advanced.synchronisation.e_Auxiliary.b_CyclicBarrier" />
+      <module name="JavaBeginer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="B_Advanced.synchronisation.e_Auxiliary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="c_Semaphore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B_Advanced.synchronisation.e_Auxiliary.c_Semaphore" />
+      <module name="JavaBeginer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="B_Advanced.synchronisation.e_Auxiliary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="d_ReadWriteLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B_Advanced.synchronisation.d_Lock.d_ReadWriteLock" />
+      <module name="JavaBeginer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="B_Advanced.synchronisation.d_Lock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.b_Condition" />
+      <item itemvalue="Application.a_CountDownLatch" />
+      <item itemvalue="Application.b_CyclicBarrier" />
+      <item itemvalue="Application.c_Semaphore" />
+      <item itemvalue="Application.d_ReadWriteLock" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.d_ReadWriteLock" />
+        <item itemvalue="Application.c_Semaphore" />
+        <item itemvalue="Application.b_CyclicBarrier" />
+        <item itemvalue="Application.a_CountDownLatch" />
+        <item itemvalue="Application.b_Condition" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcf8ef69-3304-4646-ad24-55d17f8b9cf6" name="Changes" comment="" />
+      <created>1646350124578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646350124578</updated>
+      <workItem from="1646350126178" duration="2032000" />
+      <workItem from="1646397136007" duration="80000" />
+      <workItem from="1648847035937" duration="2080000" />
+      <workItem from="1648902749926" duration="1592000" />
+      <workItem from="1648933767164" duration="124000" />
+      <workItem from="1649075800494" duration="509000" />
+      <workItem from="1649622838163" duration="2238000" />
+      <workItem from="1649625727601" duration="6444000" />
+      <workItem from="1650119352863" duration="1958000" />
+      <workItem from="1650313483644" duration="1974000" />
+      <workItem from="1650385099548" duration="77000" />
+      <workItem from="1650395564977" duration="314000" />
+      <workItem from="1650468412520" duration="707000" />
+      <workItem from="1651071996418" duration="6461000" />
+      <workItem from="1651097403424" duration="2239000" />
+      <workItem from="1651100125447" duration="198000" />
+      <workItem from="1651134736763" duration="603000" />
+      <workItem from="1651145810929" duration="3208000" />
+      <workItem from="1651161510203" duration="5068000" />
+      <workItem from="1651310198137" duration="4522000" />
+      <workItem from="1651323501167" duration="13240000" />
+      <workItem from="1651351759815" duration="1265000" />
+      <workItem from="1651353087116" duration="3314000" />
+      <workItem from="1651424094851" duration="69000" />
+    </task>
+    <task id="LOCAL-00001" summary="None">
+      <created>1646350191919</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1646350191919</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update Folder Structure">
+      <created>1648909264321</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1648909264321</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update Folder Structure">
+      <created>1648909281758</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1648909281758</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Synchronisation day 1">
+      <created>1651232355968</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1651232355968</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="None" />
+    <MESSAGE value="Update Folder Structure" />
+    <MESSAGE value="Synchronisation day 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Synchronisation day 1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/B_Advanced/synchronisation/c_Producer_Manufacturer/SemaphoreMethod.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
