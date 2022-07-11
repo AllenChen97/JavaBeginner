@@ -33,9 +33,10 @@
 [有赞0828一、二面凉经](https://www.nowcoder.com/discuss/723100?source_id=discuss_experience_nctrack&channel=-1)
 [有赞Java后端一面面经](https://www.nowcoder.com/discuss/722939?source_id=discuss_experience_nctrack&channel=-1)
 [8/28 有赞java后端一面45min](https://www.nowcoder.com/discuss/722998?source_id=discuss_experience_nctrack&channel=-1)
-[]()
-[]()
-[]()
+
+[百度工程效能部面经](https://www.nowcoder.com/discuss/733527?source_id=discuss_experience_nctrack&channel=-1)
+[京东一面](https://www.nowcoder.com/discuss/723204?source_id=discuss_experience_nctrack&channel=-1)
+[京东提前批Java开发2轮技术+1轮HR面](https://www.nowcoder.com/discuss/722899?source_id=discuss_experience_nctrack&channel=-1)
 []()
 []()
 []()
